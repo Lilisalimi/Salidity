@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = "0xfF5cC26d33A84F10760718b207B1765744D0fB0A";
+export const TOKEN_CONTRACT_ADDRESS = "0x5f097196b9d5e7aff2e55d63805acd01a415b060";
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
